@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo
 
-[Counter App Live Demo](https://ridait.github.io/counter-react/demo/)
+[Counter App Live Demo](https://ridait.github.io/counter-react/)
 
 ## Available Scripts
 
